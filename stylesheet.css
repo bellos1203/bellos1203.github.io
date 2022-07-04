@@ -94,6 +94,11 @@ heading {
   font-size: 22px;
 }
 
+
+li {
+  margin: 20px 0px;
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 15px;
